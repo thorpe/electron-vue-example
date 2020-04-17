@@ -1,0 +1,4 @@
+appId: electron.vue.example
+publish:
+  provider: github
+  token: 221be15ee349fd2c74b189e1527d2b46bbddd4e3
