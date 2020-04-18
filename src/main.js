@@ -4,7 +4,9 @@ import router from './router'
 import store from './store'
 import vuetify from './plugins/vuetify'
 
-import './assets/_reset.css'
+import './assets/css/app.css'
+import './assets/css/normalize.css'
+
 import VueI18n from 'vue-i18n'
 
 Vue.use(VueI18n)

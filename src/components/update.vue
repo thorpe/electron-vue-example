@@ -28,7 +28,7 @@
                   <span v-if="message === 5">{{ $t('common.update_05_latest_version') }}</span>
                 </v-col>
                 <v-col cols="12" id="loading" v-if="loading === true">
-                  <img src="../assets/download_loading.svg"/>
+                  <img src="../assets/images/download_loading.svg"/>
                 </v-col>
               </v-row>
               <v-row>
